@@ -1,9 +1,13 @@
 ## About Me
-<p> My name is Hoang Duc Nam, I'm a Troy University sophomore, majoring in computer science with a strong passion for data engineering. I am constantly pushing the boundaries of my knowledge to harness the power of data and contribute my expertise to the ever-evolving field of computer science.</h3>
+<p> My name is Hoang Duc Nam, I'm a Troy University sophomore, majoring in computer science with a strong passion for data engineering. I am constantly pushing the boundaries of my knowledge to harness the power of data and contribute my expertise to the ever-evolving field of computer science.</p>
+
+#### <ins>Education</ins>:
+1. Troy University
+2. Hanoi University Of Science And Technology
 
 ## How To Reach Me
 Portfolio website: [namper.tech](https://namper.tech/) <br/>
-Social media: [LinkedIn](https://www.linkedin.com/in/nam-hd) [Facebook](https://www.facebook.com/nam.doffy)
+Social media: [LinkedIn](https://www.linkedin.com/in/nam-hd) [Facebook](https://www.facebook.com/nam.doffy) <br/>
 
 ## GitHub Stats:
 <p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-ruto&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p><br/>
