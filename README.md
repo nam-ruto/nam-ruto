@@ -18,12 +18,13 @@ Social media: [LinkedIn](https://www.linkedin.com/in/nam-hd) [Facebook](https://
 
 ## My Feature Project
 <!-- Row 1 -->
-<a href="https://github.com/nam-ruto/SnakeGame">
+<div><a href="https://github.com/nam-ruto/SnakeGame">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nam-ruto&repo=SnakeGame&theme=radical" />
 </a>
 <a href="https://github.com/nam-ruto/pomoTimerTest">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nam-ruto&repo=pomoTimerTest&theme=merko" />
-</a>
+</a></div>
+
 <!-- Row 2 -->
 <a href="https://github.com/nam-ruto/BKcorporation_mng_system">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
