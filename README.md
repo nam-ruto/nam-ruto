@@ -24,7 +24,6 @@ Social media: [LinkedIn](https://www.linkedin.com/in/nam-hd) [Facebook](https://
 <a href="https://github.com/nam-ruto/pomoTimerTest">
   <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nam-ruto&repo=pomoTimerTest&theme=merko" />
 </a>
-
 <!-- Row 2 -->
 <a href="https://github.com/nam-ruto/BKcorporation_mng_system">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
