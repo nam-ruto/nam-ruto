@@ -18,10 +18,10 @@ Social media: [LinkedIn](https://www.linkedin.com/in/nam-hd) [Facebook](https://
     <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nam-ruto&theme=nord" alt="GitHub Streak" /></a>
 </p><br/>
 
-## My Feature Project
+## My Feature Projects
 <!-- Row 1 -->
 <a href="https://github.com/nam-ruto/TelegramBot_TrackingExpenses.git">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nam-ruto&repo=SnakeGame&theme=radical" />
+  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nam-ruto&repo=TelegramBot_TrackingExpenses&theme=radical" />
 </a>
 <a href="https://github.com/nam-ruto/BKcorporation_mng_system">
   <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
