@@ -1,43 +1,58 @@
-## About Me
-<p> My name is Hoang Duc Nam, I'm a Troy University sophomore, majoring in computer science with a strong passion for data engineering. I am constantly pushing the boundaries of my knowledge to harness the power of data and contribute my expertise to the ever-evolving field of computer science.</p>
+# 👋 Welcome to My GitHub Profile!
 
-#### <ins>Education</ins>:
-1. Troy University
-2. Hanoi University Of Science And Technology
+## About Me  
+💻 **Software Engineer** @ ISODS | **Data Engineer** @ FPT Software | 🏆 **MVP Winner** @ TroyHack 2024  
+🚀 Passionate about **software development**, **data engineering**, and crafting innovative solutions to solve real-world problems.  
 
-## How To Reach Me
-Portfolio website: [namper.tech](https://namper.tech/) <br/>
-Social media: [LinkedIn](https://www.linkedin.com/in/nam-hd) [Facebook](https://www.facebook.com/nam.doffy) <br/>
+## Experience 
+- ✅ Experience in building the Data Pipeline and the ETL process
+- ✅ Good understanding of Data Modeling and Query Optimization
+- ✅ Excellent team-player and displaying strong sense of initiative on tasks
+- ✅ Strong hands on experience and knowledge in many programming language  
 
-## GitHub Stats:
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-ruto&theme=react&hide_border=false&include_all_commits=false&count_private=false&layout=compact" /></p><br/>
+## 📫 How to Reach Me  
+🌐 **Portfolio Website**: [namper.tech]([https://namper.tech/](https://namruto.streamlit.app/))  
+💼 **LinkedIn**: [Nam Hoang](https://www.linkedin.com/in/nam-hd)  
+📘 **Facebook**: [Nam Doffy](https://www.facebook.com/nam.doffy)  
 
-<p align="center"> <img align="center" src="https://github-readme-stats.vercel.app/api?username=nam-ruto&theme=react&hide_border=false&include_all_commits=false&count_private=false" /></p><br/>
+## 📊 GitHub Stats  
 
-<p align="center">
-    <a href="https://git.io/streak-stats"><img src="https://streak-stats.demolab.com?user=nam-ruto&theme=nord" alt="GitHub Streak" /></a>
-</p><br/>
+<div align="center">
+    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-ruto&theme=react&hide_border=false&layout=compact" alt="Top Languages" />
+    <br><br>
+    <img src="https://github-readme-stats.vercel.app/api?username=nam-ruto&theme=react&hide_border=false" alt="GitHub Stats" />
+    <br><br>
+    <img src="https://streak-stats.demolab.com?user=nam-ruto&theme=nord" alt="GitHub Streak" />
+</div>
 
-## My Feature Projects
-<!-- Row 1 -->
-<a href="https://github.com/nam-ruto/TelegramBot_TrackingExpenses.git">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nam-ruto&repo=TelegramBot_TrackingExpenses&theme=radical" />
+## 💻 Featured Projects  
+
+### 🚀 Open Source Contributions  
+<a href="https://github.com/nam-ruto/TelegramBot_TrackingExpenses">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-ruto&repo=TelegramBot_TrackingExpenses&theme=radical" alt="TelegramBot_TrackingExpenses"/>
 </a>
 <a href="https://github.com/nam-ruto/BKcorporation_mng_system">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nam-ruto&repo=BKcorporation_mng_system&theme=gruvbox" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-ruto&repo=BKcorporation_mng_system&theme=gruvbox" alt="BKcorporation_mng_system"/>
 </a> 
 
-<!-- Row 2 -->
 <a href="https://github.com/nam-ruto/pomoTimerTest">
-  <img align="center" src="https://github-readme-stats-anuraghazra1.vercel.app/api/pin/?username=nam-ruto&repo=pomoTimerTest&theme=merko" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-ruto&repo=pomoTimerTest&theme=merko" alt="pomoTimerTest"/>
 </a>
 <a href="https://github.com/nam-ruto/programming_book">
-  <!-- Change the `github-readme-stats.anuraghazra1.vercel.app` to `github-readme-stats.vercel.app`  -->
-  <img align="center" src="https://github-readme-stats.anuraghazra1.vercel.app/api/pin/?username=nam-ruto&repo=programming_book&theme=dark" />
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-ruto&repo=programming_book&theme=dark" alt="programming_book"/>
 </a>
 
-## My Tech Skills
-![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![Markdown](https://img.shields.io/badge/markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![PowerShell](https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white) ![NPM](https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![GIT](https://img.shields.io/badge/Git-fc6d26?style=for-the-badge&logo=git&logoColor=white)
----
-[![](https://visitcount.itsvg.in/api?id=nam-ruto&icon=2&color=9)](https://visitcount.itsvg.in)
+## 🛠️ My Tech Skills  
+<div align="center">
+    <img src="https://img.shields.io/badge/C++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white" alt="C++"/>
+    <img src="https://img.shields.io/badge/Markdown-%23000000.svg?style=for-the-badge&logo=markdown&logoColor=white" alt="Markdown"/>
+    <img src="https://img.shields.io/badge/Python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54" alt="Python"/>
+    <img src="https://img.shields.io/badge/PowerShell-%235391FE.svg?style=for-the-badge&logo=powershell&logoColor=white" alt="PowerShell"/>
+    <img src="https://img.shields.io/badge/NPM-%23CB3837.svg?style=for-the-badge&logo=npm&logoColor=white" alt="NPM"/>
+    <img src="https://img.shields.io/badge/Pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white" alt="Pandas"/>
+    <img src="https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white" alt="Plotly"/>
+    <img src="https://img.shields.io/badge/Git-%23fc6d26.svg?style=for-the-badge&logo=git&logoColor=white" alt="Git"/>
+</div>
+
+## 🚀 Let's Connect  
+[![](https://visitcount.itsvg.in/api?id=nam-ruto&icon=2&color=9)](https://visitcount.itsvg.in)  
