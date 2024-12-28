@@ -28,18 +28,17 @@
 ## 💻 Featured Projects  
 
 ### 🚀 Open Source Contributions  
-<a href="https://github.com/nam-ruto/TelegramBot_TrackingExpenses">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-ruto&repo=TelegramBot_TrackingExpenses&theme=radical" alt="TelegramBot_TrackingExpenses"/>
+<a href="https://github.com/nam-ruto/Flask-based-RESTful-API">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-ruto&repo=Flask-based-RESTful-API&theme=merko" alt="Flask-based-RESTful-API"/>
 </a>
 <a href="https://github.com/nam-ruto/BKcorporation_mng_system">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-ruto&repo=BKcorporation_mng_system&theme=gruvbox" alt="BKcorporation_mng_system"/>
 </a> 
-
-<a href="https://github.com/nam-ruto/pomoTimerTest">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-ruto&repo=pomoTimerTest&theme=merko" alt="pomoTimerTest"/>
+<a href="https://github.com/nam-ruto/TelegramBot_TrackingExpenses">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-ruto&repo=TelegramBot_TrackingExpenses&theme=radical" alt="TelegramBot_TrackingExpenses"/>
 </a>
-<a href="https://github.com/nam-ruto/programming_book">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-ruto&repo=programming_book&theme=dark" alt="programming_book"/>
+<a href="https://github.com/nam-ruto/Java_Restaurant_MS">
+  <img src="https://github-readme-stats.vercel.app/api/pin/?username=nam-ruto&repo=Java_Restaurant_MS&theme=dark" alt="Java_Restaurant_MS"/>
 </a>
 
 ## 🛠️ My Tech Skills  
