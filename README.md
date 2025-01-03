@@ -2,7 +2,7 @@
 
 ## About Me  
 💻 **Software Engineer** @ ISODS | **Data Engineer** @ FPT Software | 🏆 **MVP Winner** @ TroyHack 2024  
-🚀 Passionate about **software development**, **data engineering**, and crafting innovative solutions to solve real-world problems.  
+🚀 Passionate about **Software Development**, **Data Engineering**, and crafting innovative solutions to solve real-world problems.  
 
 ## Experience 
 - ✅ Experience in building the Data Pipeline and the ETL process
@@ -17,8 +17,8 @@
 
 ## 📊 GitHub Stats  
 
-<div align="center">
-    <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-ruto&theme=react&hide_border=false&layout=compact" alt="Top Languages" />
+<div>
+<!--     <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=nam-ruto&theme=react&hide_border=false&layout=compact" alt="Top Languages" /> -->
     <br><br>
     <img src="https://github-readme-stats.vercel.app/api?username=nam-ruto&theme=react&hide_border=false" alt="GitHub Stats" />
     <br><br>
